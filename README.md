@@ -11,19 +11,15 @@ My unique combination of psychological insight and technical expertise allows me
 🌱 **Future Aspirations:** I'm eager to harness these skills further and collaborate with a dynamic data science team.
 
 ## 🛠️ Technologies
-Python 3, Pandas, Numpy, Spark, FB Prophet, Scikit-learn,TensorFlow, NLTK, Matplotlib
-MySQL/SQL,
-PostgreSQL
-, PL/SQL, MongoDB, RightNowQL
-Java 8+, OOP, Git, Maven, Hibernate, Spring (Boot, Core, JPA,Security, MVC)
-REST API + GraphQL, Postman
-Linux, Bash, Terminal, XML/JSON
-Testing (jUnit, Mockito, AssertJ)
-GIT, Docker, CI/CD,
-Jenkins, JFrog
-, Sonar Cube
-Clean code + Design patterns
-Oracle BI Publisher; OTBIEE, Oracle Service Cloud.
+- Python 3, Pandas, Numpy, Spark, FB Prophet, Scikit-learn,TensorFlow, NLTK, Matplotlib
+- MySQL/SQL, PostgreSQL, PL/SQL, MongoDB, RightNowQL
+- Java 8+, OOP, Git, Maven, Hibernate, Spring (Boot, Core, JPA,Security, MVC)
+- REST API + GraphQL, Postman
+- Linux, Bash, Terminal, XML/JSON
+- Testing (jUnit, Mockito, AssertJ)
+- GIT, Docker, CI/CD, Jenkins, JFrog, Sonar Cube
+- Clean code + Design patterns
+- Oracle BI Publisher; OTBIEE, Oracle Service Cloud.
 
 💬 Please ask me about any above or any other tool I've worked with. I am always open to discussions about technologies and best practices.
 
